@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shristisharma2210-sudo/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Shristisharma2210-sudo/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
